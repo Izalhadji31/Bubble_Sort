@@ -30,6 +30,13 @@ namespace Bubble_Sort
             Console.WriteLine(" Masukkan elemen array ");
             Console.WriteLine("-------------------------");
 
+            // Pengguna Memasukkan elemen pada array
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine("<" + (i + 1) + "> ");
+                string s1 = Console.ReadLine();
+                a[i] = Int32.Parse(s1);
+            }
 
         }
         
