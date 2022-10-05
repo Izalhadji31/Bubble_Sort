@@ -26,7 +26,7 @@ namespace Bubble_Sort
                     Console.WriteLine("\nArray dapat mempunyai maksimal 20 elemen.\n");
             }
             Console.WriteLine("");
-            Console.WriteLine("___________------________");
+            Console.WriteLine("_________________________");
             Console.WriteLine(" Masukkan elemen array ");
             Console.WriteLine("-------------------------");
 
